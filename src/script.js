@@ -1,6 +1,4 @@
 import "./style.css";
-// import * as THREE from "three";
-// import { OrbitControls } from "three/examples/jsm/controls/OrbitControls.js";
 import * as dat from "lil-gui";
 import ReactDOM from "react-dom";
 import * as React from "react";
